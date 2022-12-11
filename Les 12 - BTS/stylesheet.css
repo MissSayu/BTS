@@ -1,0 +1,58 @@
+header{
+  background-color: #FA9DEF;
+  width: 100%;
+  height: 50px;
+  color: white;
+  text-align: center;
+}
+footer{
+  background-color: #FA9DEF;
+  width: 100%;
+  height: 50px;
+  color: white;
+  text-align: center;
+}
+body{
+  text-align: center;
+}
+p {
+  color: black;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+caption{
+  color: black;
+}
+table, td {
+  border:1px solid black;
+  border-radius: 8px;
+  color: white;
+}
+td{
+  line-height:0;
+}
+table td#cell1 {
+background-color:#1652C1;
+}
+table td#cell2 {
+background-color:#FDC3FA;
+}
+table td#cell3 {
+background-color:#000000;
+}
+table td#cell4 {
+background-color:#33C1FF;
+}
+table td#cell5 {
+background-color:#DFD837;
+}
+table td#cell6 {
+background-color:#61D568;
+}
+table td#cell7 {
+background-color:#AA6AA6;
+}
+table td#cell8 {
+background-color:#9415C0;
+}
